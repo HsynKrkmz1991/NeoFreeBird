@@ -14,3 +14,6 @@
 
 @interface XNAVNavigationController: UINavigationController
 @end
+
+@interface XTabbedAppNavigationSplitViewControllerFactory : NSObject
+@end
